@@ -11,7 +11,7 @@ def solution(A, K):
 
 print(solution([3, 8, 9, 7, 6], 3)) # [9, 7, 6, 3, 8]
 # print(solution([0, 0, 0], 1)) # [0, 0, 0]
-# print(solution([1, 2, 3, 4], 4)) # [1, 2, 3, 4]
+print(solution([1, 2, 3, 4], 4)) # [1, 2, 3, 4]
 # print(solution([1, 2, 3, 4], 5)) # [4, 1, 2, 3]
 # print(solution([], 5)) # []
 # print(solution([1,2,3,4],50))
